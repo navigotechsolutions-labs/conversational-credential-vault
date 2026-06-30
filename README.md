@@ -1,7 +1,7 @@
 # 🧠 Core Vault (Secure Conversational AI Credential Store)
 
-[![GitHub stars](https://img.shields.io/github/stars/navigotechsolutions-labs/core-vault-public.svg?style=flat-ring)](https://github.com/navigotechsolutions-labs/core-vault-public/stargazers)
-[![GitHub license](https://img.shields.io/github/license/navigotechsolutions-labs/core-vault-public.svg?style=flat-ring)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/navigotechsolutions-labs/conversational-credential-vault.svg?style=flat-ring)](https://github.com/navigotechsolutions-labs/conversational-credential-vault/stargazers)
+[![GitHub license](https://img.shields.io/github/license/navigotechsolutions-labs/conversational-credential-vault.svg?style=flat-ring)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-ring&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-ring&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-ring&logo=node.js&logoColor=white)](https://nodejs.org/)
